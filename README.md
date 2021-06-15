@@ -1,14 +1,31 @@
-# BroadE Hail Workshop 2021
-## Scalable Genomics using Hail
-### Date: April 8th, 2021
-**Video link**: via [Dropbox](https://www.dropbox.com/sh/8u8fbbpc0kqz8n0/AACunsGDhi7YeHr4qTkTpY35a?dl=0) 
+# Institute for Behavioral Genetics (IBG) International Statistical Genetics 2021 Workshop
+## Sequencing and Hail
+### Date: June 16th, 2021
+**Video link**: via [YouTube](https://www.youtube.com/watch?v=2N_VqmX22Xg&list=PL-A34BVyxWtXn9nxuj8Gk1yRfxhpdZ4y2) 
 
-This git repo contains workshop materials used during the BroadE Hail Workshop in 2021 held by the Hail team and Broad Institute of MIT and Harvard.
+This git repo contains workshop materials used during the IBG Workshop in 2021 for Sequencing and Hail held by the Hail team and the Institute for Behavioral Genetics, University of Colorado, Boulder.
 
 ## Sessions
 
 &emsp;Instructor: [Kumar Veerapen, PhD](mailto:veerapen@broadinstitute.org)
-&emsp;Teaching Assistants: Tim Poterba and Carolin Diaz
+&emsp;Instructor: [Tim Poterba](mailto:tpoterba@broadinstitute.org) 
+&emsp;Tutors: 
+**Session A**:
+Dan Goldstein
+Tim Poterba
+Carolin Diaz
+Cotton Seed
+Dan Howrigan
+John Compitello
+
+
+**Session B**:
+Kumar Veerapen
+Tim Poterba
+Carolin Diaz
+Cotton Seed
+Dan Goldstein 
+
 
 _files that the following Jupyter notebook point to are in the `resources` folder in this repo_
 
