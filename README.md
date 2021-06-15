@@ -13,43 +13,26 @@ This git repo contains workshop materials used during the IBG Workshop in 2021 f
 
 &emsp;Tutors: 
 
-**Session A**:
+| **Session A**      | **Session B** | 
+| :---:        |    :----:   |          
+| Dan Goldstein | Dan Goldstein |  
+| Tim Poterba   | Tim Poterba |
+| Carolin Diaz | Carolin Diaz |
+| Cotton Seed | Cotton Seed |
+| Dan Howrigan | Kumar Veerapen |
+| John Compitello |  | 
 
-Dan Goldstein
-
-Tim Poterba
-
-Carolin Diaz
-
-Cotton Seed
-
-Dan Howrigan
-
-John Compitello
-
-
-**Session B**:
-
-Kumar Veerapen
-
-Tim Poterba
-
-Carolin Diaz
-
-Cotton Seed
-
-Dan Goldstein 
 
 
 _files that the following Jupyter notebook point to are in the `resources` folder in this repo_
 
-&emsp;Slide deck: `Materials/20210408_HailBroadE.pdf`
+&emsp;Slide deck: `Materials/2021_sequencingAndHail.pdf`
 
 &emsp;Poll Everywhere screenshots: `Materials/poll-screenshots`
 
-&emsp;Jupyter notebook for Common Variant Analysis: `resources/BroadEWorkshop_CVanalysis.ipynb`
+&emsp;Jupyter notebook for Common Variant Analysis: `resources/IBG_CVanalysis.ipynb`
 
-&emsp;JJupyter notebook for Rare Variant Analysis: `resources/BroadEWorkshop_RVanalysis.ipynb`
+&emsp;JJupyter notebook for Rare Variant Analysis: `resources/IBG_RVanalysis.ipynb`
 
 
 ## Still have questions?
