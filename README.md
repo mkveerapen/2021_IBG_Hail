@@ -8,22 +8,36 @@ This git repo contains workshop materials used during the IBG Workshop in 2021 f
 ## Sessions
 
 &emsp;Instructor: [Kumar Veerapen, PhD](mailto:veerapen@broadinstitute.org)
+
 &emsp;Instructor: [Tim Poterba](mailto:tpoterba@broadinstitute.org) 
+
 &emsp;Tutors: 
+
 **Session A**:
+
 Dan Goldstein
+
 Tim Poterba
+
 Carolin Diaz
+
 Cotton Seed
+
 Dan Howrigan
+
 John Compitello
 
 
 **Session B**:
+
 Kumar Veerapen
+
 Tim Poterba
+
 Carolin Diaz
+
 Cotton Seed
+
 Dan Goldstein 
 
 
