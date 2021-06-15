@@ -11,7 +11,7 @@ RUN pip install --no-cache-dir \
   jupyter \
   jupyter-spark \
   "tornado<6" \
-  hail==0.2.67 \
+  hail==0.2.69 \
   jupyter_contrib_nbextensions \
   && \
   pip check && \
