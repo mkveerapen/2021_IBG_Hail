@@ -28,11 +28,17 @@ _files that the following Jupyter notebook point to are in the `resources` folde
 
 &emsp;Slide deck: `Materials/2021_sequencingAndHail.pdf`
 
-&emsp;Poll Everywhere screenshots: `Materials/poll-screenshots`
+&emsp;Additional material: `Materials/additionalMaterial/`
+
+&emsp;Poll Everywhere screenshots: `Materials/poll-screenshots/`
 
 &emsp;Jupyter notebook for Common Variant Analysis: `resources/01-Hail-common-variant-analysis.ipynb`
 
-&emsp;JJupyter notebook for Rare Variant Analysis: `resources/02-Hail-rare-variant-analysis.ipynb`
+&emsp;Jupyter notebook for Rare Variant Analysis: `resources/02-Hail-rare-variant-analysis.ipynb`
+
+&emsp;Notebook output in `pdf` formats: `Materials/outputPDF/`
+
+
 
 
 ## Still have questions?
