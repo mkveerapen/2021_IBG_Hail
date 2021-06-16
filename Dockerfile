@@ -20,7 +20,6 @@ RUN pip install --no-cache-dir \
   jupyter contrib nbextension install --user && \
   jupyter nbextension enable --user --py jupyter_spark && \
   jupyter nbextension enable --user --py widgetsnbextension && \
-  jupyter nbextension enable --user collapsible_headings/main && \
   jupyter nbextension enable --user move_selected_cells/main
 
 COPY ./resources/ /home/jovyan
