@@ -30,9 +30,9 @@ _files that the following Jupyter notebook point to are in the `resources` folde
 
 &emsp;Poll Everywhere screenshots: `Materials/poll-screenshots`
 
-&emsp;Jupyter notebook for Common Variant Analysis: `resources/IBG_CVanalysis.ipynb`
+&emsp;Jupyter notebook for Common Variant Analysis: `resources/01-Hail-common-variant-analysis.ipynb`
 
-&emsp;JJupyter notebook for Rare Variant Analysis: `resources/IBG_RVanalysis.ipynb`
+&emsp;JJupyter notebook for Rare Variant Analysis: `resources/02-Hail-rare-variant-analysis.ipynb`
 
 
 ## Still have questions?
