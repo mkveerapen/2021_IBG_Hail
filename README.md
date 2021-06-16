@@ -20,7 +20,7 @@ This git repo contains workshop materials used during the IBG Workshop in 2021 f
 | Carolin Diaz | Carolin Diaz |
 | Cotton Seed | Cotton Seed |
 | Dan Howrigan | Kumar Veerapen |
-| John Compitello |  | 
+| John Compitello | John Compitello | 
 
 
 
