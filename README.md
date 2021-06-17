@@ -38,8 +38,8 @@ _files that the following Jupyter notebook point to are in the `resources` folde
 
 &emsp;Notebook output in `pdf` formats: `Materials/outputPDF/`
 
-
-
+## download this entire repo as a tar ball?
+Use this [link](https://storage.googleapis.com/hail-common/workshops/2021_IBG_Hail.tar.gz)
 
 ## Still have questions?
 
